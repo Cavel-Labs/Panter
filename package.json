@@ -2,7 +2,7 @@
   "name": "panter",
   "version": "1.0.0",
   "description": "This is the UI for the Olli and this where the product will be served as the for early users and all other product and our company representation site also.",
-  "main": "index.js",
+  "main": "Panter/index.js",
   "scripts": {
     "test": "test"
   },
